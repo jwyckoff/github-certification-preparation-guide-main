@@ -1,4 +1,4 @@
-<img src="./content/media/socialcard.png"  width="1173"/>
+<img src=".https://github.com/Mhassanbughio/github-certification-preparation-guide-main/blob/main/socialcard.png"  width="1173"/>
 
 # Study guide to prepare the GitHub certifications
 
